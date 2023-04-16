@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a associate professor in the College of Computer Science at Sichuan University. I graduated from Sichuan University with the PhD degree and advised by the Professor Zhang yi (章毅). 
 
-My research interests lie in the field of artificial intelligence and its application in medical contexts, with a particular focus on radiotherapy. Specific research directions include image modality conversion, medical image recognition, and multi-objective inverse optimization in radiotherapy. To date, I have published over 20 papers in international journals <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my research, please don't hesitate to contact me via email at <a href="mailto:hujunjie@scu.edu.cn" title="hujunjie@scu.edu.cn">hujunjie@scu.edu.cn</a>.
+My research interests lie in the field of artificial intelligence and its application in medical field, with a particular focus on radiotherapy. Specific research directions include image modality conversion, medical image recognition, and multi-objective inverse optimization in radiotherapy. To date, I have published over 20 papers in international journals <a href='https://scholar.google.com/citations?user=T3NJS_kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my research, please don't hesitate to contact me via email at <a href="mailto:hujunjie@scu.edu.cn" >hujunjie@scu.edu.cn</a>.
 
 
 <!-- # 🔥 News -->
@@ -28,7 +28,6 @@ My research interests lie in the field of artificial intelligence and its applic
 
 # 📝 Selected Publications 
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 - Wang, Han, **Junjie Hu**, Ying Song, Lei Zhang, Sen Bai, and Zhang Yi. "Multi-view fusion segmentation for brain glioma on CT images." Applied Intelligence (2022): 1-15.
 - Qi, Xiaofeng, **Junjie Hu**, and Zhang Yi. "Missed diagnoses detection by adversarial learning." Knowledge-Based Systems 220 (2021): 106903.
 - Xu, Lei, **Junjie Hu**, Ying Song, Sen Bai, and Zhang Yi. "Clinical target volume segmentation for stomach cancer by stochastic width deep neural network." Medical Physics 48, no. 4 (2021): 1720-1730.
