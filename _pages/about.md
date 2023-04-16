@@ -26,7 +26,7 @@ My research interests lie in the field of artificial intelligence and its applic
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 - Wang, Han, **Junjie Hu**, Ying Song, Lei Zhang, Sen Bai, and Zhang Yi. "Multi-view fusion segmentation for brain glioma on CT images." Applied Intelligence (2022): 1-15.
 - Qi, Xiaofeng, **Junjie Hu**, and Zhang Yi. "Missed diagnoses detection by adversarial learning." Knowledge-Based Systems 220 (2021): 106903.
