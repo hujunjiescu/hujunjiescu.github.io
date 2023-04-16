@@ -58,8 +58,8 @@ My research interests lie in the field of artificial intelligence and its applic
 
 # 🎖 Honors and Awards
 
-- *2019* National College Artificial Intelligence Innovation Competition, First Prize.
-- *2018* AI Challenge of Automated Macular Edema Recognition, Second Prize.
+- *2019* National College Artificial Intelligence Innovation Competition, First Prize. (2019年中国人工智能创新大赛, 一等奖)
+- *2018* AI Challenge of Automated Macular Edema Recognition, Second Prize. (2018年全球AI挑战赛, 黄斑水肿病变分割比赛, 二等奖)
 
 # 📖 Educations
 - *2021.01 - now*, Sichuan Univeristy, Associate Professor. 
