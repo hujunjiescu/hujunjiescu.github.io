@@ -31,6 +31,7 @@ My research interests lie in the field of artificial intelligence and its applic
 - Wang, Han, **Junjie Hu**, Ying Song, Lei Zhang, Sen Bai, and Zhang Yi. "Multi-view fusion segmentation for brain glioma on CT images." Applied Intelligence (2022): 1-15.
 - Qi, Xiaofeng, **Junjie Hu**, and Zhang Yi. "Missed diagnoses detection by adversarial learning." Knowledge-Based Systems 220 (2021): 106903.
 - Xu, Lei, **Junjie Hu**, Ying Song, Sen Bai, and Zhang Yi. "Clinical target volume segmentation for stomach cancer by stochastic width deep neural network." Medical Physics 48, no. 4 (2021): 1720-1730.
+- **Junjie, Hu**, Ying Song, Lei Zhang, Sen Bai, and Zhang Yi. "Multi-scale attention U-net for segmenting clinical target volume in graves’ ophthalmopathy." Neurocomputing 427 (2021): 74-83.
 - **Junjie, Hu**, Ying Song, Qiang Wang, Sen Bai, and Zhang Yi. "Incorporating historical sub-optimal deep neural networks for dose prediction in radiotherapy." Medical Image Analysis 67 (2021): 101886.
 - Wang, Han, Haixian Zhang, **Junjie Hu**, Ying Song, Sen Bai, and Zhang Yi. "DeepEC: An error correction framework for dose prediction and organ segmentation using deep neural networks." International Journal of Intelligent Systems 35, no. 12 (2020): 1987-2008.
 - **Junjie, Hu**, Yuanyuan Chen, Lei Zhang, and Zhang Yi. "Surrogate dropout: Learning optimal drop rate through proxy." Knowledge-Based Systems 206 (2020): 106340.
