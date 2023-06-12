@@ -28,6 +28,8 @@ My research interests lie in the field of artificial intelligence and its applic
 
 # 📝 Publications 
 
+- Song, Ying, **Junjie Hu**, Zhang Yi, et al. "Young oncologists benefit more than experts from deep learning-based organs-at-risk contouring modeling in nasopharyngeal carcinoma radiotherapy: A multi-institution clinical study exploring working experience and institute group style factor." Clinical and Translational Radiation Oncology 41 (2023).
+- Wang, Jianyong, **Junjie Hu**, Ying Song, Qiang Wang, Xiaozhi Zhang, Sen Bai, and Zhang Yi. "VMAT dose prediction in radiotherapy by using progressive refinement UNet." Neurocomputing 488 (2022): 528-539.
 - Wang, Han, **Junjie Hu**, Ying Song, Lei Zhang, Sen Bai, and Zhang Yi. "Multi-view fusion segmentation for brain glioma on CT images." Applied Intelligence (2022): 1-15.
 - Qi, Xiaofeng, **Junjie Hu**, and Zhang Yi. "Missed diagnoses detection by adversarial learning." Knowledge-Based Systems 220 (2021): 106903.
 - Xu, Lei, **Junjie Hu**, Ying Song, Sen Bai, and Zhang Yi. "Clinical target volume segmentation for stomach cancer by stochastic width deep neural network." Medical Physics 48, no. 4 (2021): 1720-1730.
