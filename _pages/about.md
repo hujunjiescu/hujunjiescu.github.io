@@ -27,7 +27,10 @@ My research interests lie in the field of artificial intelligence and its applic
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-
+- Yu, Chengrong, Ying Song, Qiang Wang, Shengqian Zhu, Zhang Yi, and **Junjie Hu**. "Leveraging denoising diffusion probabilistic model to improve the multi-thickness CT segmentation." Neurocomputing 610 (2024): 128573.
+- Zhu, Shengqian, Chengrong Yu, and **Junjie Hu**. "Regularizing deep neural networks for medical image analysis with augmented batch normalization." Applied Soft Computing 154 (2024): 111337.
+- Niu, Hao, Yuxiang Zhou, Xiaohao Yan, Jun Wu, Yuncheng Shen, Zhang Yi, and **Junjie Hu**. "On the applications of neural ordinary differential equations in medical image analysis." Artificial Intelligence Review 57, no. 9 (2024): 236.
+- **Junjie Hu**, Chengrong Yu, Zhang Yi, and Haixian Zhang. "Enhancing robustness of medical image segmentation model with neural memory ordinary differential equation." International Journal of Neural Systems 33, no. 12 (2023): 2350060.
 - Song, Ying, **Junjie Hu**, Zhang Yi, et al. "Young oncologists benefit more than experts from deep learning-based organs-at-risk contouring modeling in nasopharyngeal carcinoma radiotherapy: A multi-institution clinical study exploring working experience and institute group style factor." Clinical and Translational Radiation Oncology 41 (2023).
 - Wang, Jianyong, **Junjie Hu**, Ying Song, Qiang Wang, Xiaozhi Zhang, Sen Bai, and Zhang Yi. "VMAT dose prediction in radiotherapy by using progressive refinement UNet." Neurocomputing 488 (2022): 528-539.
 - Wang, Han, **Junjie Hu**, Ying Song, Lei Zhang, Sen Bai, and Zhang Yi. "Multi-view fusion segmentation for brain glioma on CT images." Applied Intelligence (2022): 1-15.
@@ -50,10 +53,10 @@ My research interests lie in the field of artificial intelligence and its applic
 - **Junjie, Hu**, Yuanyuan Chen, Jie Zhong, Rong Ju, and Zhang Yi. "Automated analysis for retinopathy of prematurity by deep neural networks." IEEE transactions on medical imaging 38, no. 1 (2018): 269-279.
 
 # 💻 Projects
-
-- Host National Natural Science Youth Foundation of China. (主持国家自然科学青年基金)
-- Host Postdoctoral Science Foundation of China. (主持中国博士后面上项目)
-- Host Postdoctoral Science Foundation of Sichuan University. (主持四川大学博士后基金) 
+- Host General Program of National Natural Science Foundation of China (主持国家自然科学基金面上项目, 2025-2028). 
+- Host Young Scientists Fund of National Natural Science Foundation of China. (主持国家自然科学基金青年基金项目, 2022-2024)
+- Host Postdoctoral Science Foundation of China. (主持中国博士后面上项目, 2022-2024)
+- Host Postdoctoral Science Foundation of Sichuan University. (主持四川大学博士后基金, 2022-2023) 
 
 # 🎖 Honors and Awards
 - *2022* Second Prize of Sichuan Province Medical Science and Technology for Young. (2022年四川省医学青年科技二等奖)
