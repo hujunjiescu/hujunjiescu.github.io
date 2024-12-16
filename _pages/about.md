@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an associate professor in the College of Computer Science at Sichuan University. I graduated from Sichuan University with a Ph.D. degree under the guidance of professor zhang yi (章毅). 
 
-My research interests lie in the field of artificial intelligence and its application in medical domain, with a specific focus on radiotherapy. Detailed research directions include image modality conversion, medical image recognition, and multi-objective inverse optimization in radiotherapy. To date, I have published over 20 papers in international journals <a href='https://scholar.google.com/citations?user=T3NJS_kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my research, please don't hesitate to contact me via email at <a href="mailto:hujunjie@scu.edu.cn" >hujunjie@scu.edu.cn</a>.
+My research interests lie in the field of artificial intelligence and its application in medical domain, particularly in radiotherapy. Detailed research directions include medical image analysis and inverse optimization in radiotherapy. To date, I have published over 30 papers in international journals <a href='https://scholar.google.com/citations?user=T3NJS_kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my research, please don't hesitate to contact me via email at <a href="mailto:hujunjie@scu.edu.cn" >hujunjie@scu.edu.cn</a>.
 
 
 <!-- # 🔥 News -->
