@@ -22,9 +22,10 @@ I am currently an associate professor in the College of Computer Science at Sich
 My research interests lie in the field of artificial intelligence and its application in medical domain, particularly in radiotherapy. Detailed research directions include medical image analysis and inverse optimization in radiotherapy. To date, I have published over 30 papers in international journals <a href='https://scholar.google.com/citations?user=T3NJS_kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in my research, please don't hesitate to contact me via email at <a href="mailto:hujunjie@scu.edu.cn" >hujunjie@scu.edu.cn</a>.
 
 
-<!-- # 🔥 News -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Congratulations to [Chengrong Yu](https://scholar.google.com/citations?user=SG5R43EAAAAJ&hl=en) on the successful attainment of his Ph.D. degree! 
+- *2023.6*: &nbsp;🎉🎉 Congratulations to [Ying Song](https://www.researchgate.net/scientific-contributions/Ying-Song-2063286058) on the successful attainment of her Ph.D. degree! 
+
 
 # 📝 Publications 
 ## 2024
