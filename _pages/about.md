@@ -73,7 +73,7 @@ My research interests lie in the field of artificial intelligence and its applic
 - Host Postdoctoral Science Foundation of Sichuan University. (主持四川大学博士后基金, 2022-2023) 
 
 # 🎖 Honors and Awards
-- *2022* Second Prize of Sichuan Province Medical Science and Technology for Young. (2022年四川省医学青年科技二等奖)
+- *2022* Sichuan Province Medical Science and Technology for Young, Second Prize. (2022年四川省医学青年科技二等奖)
 - *2019* National College Artificial Intelligence Innovation Competition, First Prize. (2019年中国人工智能创新大赛, 一等奖)
 - *2018* AI Challenge of Automated Macular Edema Recognition, Second Prize. (2018年全球AI挑战赛, 黄斑水肿病变分割比赛, 二等奖)
 
