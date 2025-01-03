@@ -34,6 +34,7 @@ My research interests lie in the field of artificial intelligence and its applic
 ## 2024
 - Yu, Chengrong, Ying Song, Qiang Wang, Shengqian Zhu, Zhang Yi, and **Junjie Hu**. "Leveraging denoising diffusion probabilistic model to improve the multi-thickness CT segmentation." Neurocomputing 610 (2024): 128573.
 - Zhu, Shengqian, Chengrong Yu, and **Junjie Hu**. "Regularizing deep neural networks for medical image analysis with augmented batch normalization." Applied Soft Computing 154 (2024): 111337.
+- **Junjie Hu**, Chengrong Yu, Shengqian Zhu, and Haixian Zhang. "Incorporating Adaptive Sparse Graph Convolutional Neural Networks for Segmentation of Organs at Risk in Radiotherapy." International Journal of Intelligent Systems 2024, no. 1 (2024): 1728801.
 - Niu, Hao, Yuxiang Zhou, Xiaohao Yan, Jun Wu, Yuncheng Shen, Zhang Yi, and **Junjie Hu**. "On the applications of neural ordinary differential equations in medical image analysis." Artificial Intelligence Review 57, no. 9 (2024): 236.
 
 ## 2023
