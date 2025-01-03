@@ -27,7 +27,7 @@ My research interests lie in the field of artificial intelligence and its applic
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Congratulations to [Chengrong Yu](https://scholar.google.com/citations?user=SG5R43EAAAAJ&hl=en) on the successful attainment of his Ph.D. degree! 
-- *2023.6*: &nbsp;🎉🎉 Congratulations to [Ying Song](https://www.researchgate.net/scientific-contributions/Ying-Song-2063286058) on the successful attainment of her Ph.D. degree! 
+- *2023.06*: &nbsp;🎉🎉 Congratulations to [Ying Song](https://www.researchgate.net/scientific-contributions/Ying-Song-2063286058) on the successful attainment of her Ph.D. degree! 
 
 
 # 📝 Publications 
